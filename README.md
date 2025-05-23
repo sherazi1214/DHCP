@@ -3,7 +3,7 @@
 
 
 
-![DHCP](https://miro.medium.com/v2/resize:fit:940/1*biGJBgUqCl8OHG-_pib9VA.jpeg)
+![DHCP](https://4.bp.blogspot.com/-Y0lWXIKko28/VuG0NB2MJPI/AAAAAAAAAdA/V4nzxcg_RWk/s1600/DHCPSnooping.jpg)
 
 ## What DHCP Does
 When a device (client) connects to a network:
